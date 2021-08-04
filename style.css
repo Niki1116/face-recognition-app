@@ -1,0 +1,43 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(104, 217, 252);
+}
+.heading_div{
+    float: none;
+    background: rgb(112, 198, 255);
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(51, 255, 0);
+    box-shadow: 5px 5px 5px rgb(0, 183, 255);
+}
+.heading_div2{
+    font-size: 18px;
+    
+}
+.result_para_tag{
+    box-shadow: 5px 5px 5px rgb(94, 224, 127);
+    font-size: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(253, 93, 93);
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(53, 208, 255);
+    line-height: 3;
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Indie Flower', cursive;
+}
+canvas{
+    border: 5px solid rgb(109, 201, 255);
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgb(88, 194, 255);
+    margin-top: 150px;
+    
+}
+body{
+    background-position: center;
+}
